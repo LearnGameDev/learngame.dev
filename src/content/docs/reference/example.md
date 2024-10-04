@@ -1,69 +1,69 @@
 ---
-title: Game Development Glossary
-description: A comprehensive glossary of common terms used in game development.
+title: Glosarium Pengembangan Game
+description: Glosarium komprehensif istilah umum yang digunakan dalam pengembangan game.
 ---
 
-This glossary provides definitions for common terms you'll encounter in game development.
+Glosarium ini menyediakan definisi untuk istilah-istilah umum yang akan Anda temui dalam pengembangan game.
 
 ## A
 
-- **Asset**: Any resource used in a game, such as 3D models, textures, sounds, or scripts.
-- **AI (Artificial Intelligence)**: The simulation of intelligent behavior in non-player characters (NPCs) or game systems.
+- **Aset**: Sumber daya apa pun yang digunakan dalam game, seperti model 3D, tekstur, suara, atau skrip.
+- **AI (Kecerdasan Buatan)**: Simulasi perilaku cerdas dalam karakter non-pemain (NPC) atau sistem game.
 
 ## B
 
-- **Beta**: A pre-release version of a game for testing purposes.
-- **Bug**: An error or flaw in the game that produces unintended results.
+- **Beta**: Versi pra-rilis game untuk tujuan pengujian.
+- **Bug**: Kesalahan atau cacat dalam game yang menghasilkan hasil yang tidak diinginkan.
 
 ## C
 
-- **Collision Detection**: The process of determining when two game objects intersect or collide.
-- **Cutscene**: A non-interactive sequence in a game that advances the story or provides information.
+- **Deteksi Tabrakan**: Proses menentukan kapan dua objek game berpotongan atau bertabrakan.
+- **Cutscene**: Urutan non-interaktif dalam game yang memajukan cerita atau memberikan informasi.
 
 ## E
 
-- **Engine**: A software framework designed to create and develop video games.
+- **Engine**: Kerangka kerja perangkat lunak yang dirancang untuk membuat dan mengembangkan video game.
 
 ## F
 
-- **FPS (Frames Per Second)**: The frequency at which consecutive images (frames) are displayed in a game.
+- **FPS (Frame Per Detik)**: Frekuensi di mana gambar berurutan (frame) ditampilkan dalam game.
 
 ## G
 
-- **Gameplay**: The specific way in which players interact with a game.
-- **Game Loop**: The overall flow of a game program, typically involving processing input, updating game state, and rendering.
+- **Gameplay**: Cara spesifik di mana pemain berinteraksi dengan game.
+- **Game Loop**: Alur keseluruhan program game, biasanya melibatkan pemrosesan input, pembaruan status game, dan rendering.
 
 ## L
 
-- **Level Design**: The process of creating the layout and challenges within a game's environment.
+- **Desain Level**: Proses menciptakan tata letak dan tantangan dalam lingkungan game.
 
 ## M
 
-- **Mesh**: A collection of vertices, edges, and faces that define the shape of a 3D object.
+- **Mesh**: Kumpulan vertex, tepi, dan wajah yang mendefinisikan bentuk objek 3D.
 
 ## N
 
-- **NPC (Non-Player Character)**: Any character in a game that is not controlled by a player.
+- **NPC (Karakter Non-Pemain)**: Karakter apa pun dalam game yang tidak dikendalikan oleh pemain.
 
 ## P
 
-- **Particle System**: A technique used to simulate certain fuzzy phenomena such as fire, smoke, or explosions.
-- **Physics Engine**: A computer software that provides an approximate simulation of certain physical systems.
+- **Sistem Partikel**: Teknik yang digunakan untuk mensimulasikan fenomena kabur tertentu seperti api, asap, atau ledakan.
+- **Mesin Fisika**: Perangkat lunak komputer yang menyediakan simulasi perkiraan sistem fisik tertentu.
 
 ## R
 
-- **Rendering**: The process of generating an image from a 2D or 3D model.
+- **Rendering**: Proses menghasilkan gambar dari model 2D atau 3D.
 
 ## S
 
-- **Sprite**: A 2D bitmap that is integrated into a larger scene, often in 2D games.
+- **Sprite**: Bitmap 2D yang diintegrasikan ke dalam adegan yang lebih besar, sering digunakan dalam game 2D.
 
 ## T
 
-- **Texture**: An image used to add detail, color, or surface texture to a 3D model or 2D sprite.
+- **Tekstur**: Gambar yang digunakan untuk menambahkan detail, warna, atau tekstur permukaan ke model 3D atau sprite 2D.
 
 ## V
 
-- **Vector**: A quantity that has both magnitude and direction, often used in game physics and graphics.
+- **Vektor**: Kuantitas yang memiliki besaran dan arah, sering digunakan dalam fisika dan grafis game.
 
-This glossary will be continuously updated as we add more terms and definitions relevant to game development.
+Glosarium ini akan terus diperbarui seiring kami menambahkan lebih banyak istilah dan definisi yang relevan dengan pengembangan game.

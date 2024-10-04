@@ -1,68 +1,68 @@
 ---
-title: Beginner's Guide to Game Development
-description: Start your journey into game development with this comprehensive guide.
+title: Panduan Pemula untuk Pengembangan Game
+description: Mulai perjalanan Anda dalam pengembangan game dengan panduan komprehensif ini.
 ---
 
-Welcome to the exciting world of game development! This guide will walk you through the essential steps to begin your journey as a game developer.
+Selamat datang di dunia pengembangan game yang menarik! Panduan ini akan membantu Anda melalui langkah-langkah penting untuk memulai perjalanan Anda sebagai pengembang game.
 
-## 1. Understanding Game Development
+## 1. Memahami Pengembangan Game
 
-Game development is the process of creating video games. It involves various disciplines, including:
+Pengembangan game adalah proses menciptakan video game. Ini melibatkan berbagai disiplin ilmu, termasuk:
 
-- Programming
-- Art and Design
-- Sound and Music
-- Storytelling
-- Project Management
+- Pemrograman
+- Seni dan Desain
+- Suara dan Musik
+- Penceritaan
+- Manajemen Proyek
 
-## 2. Choose Your Path
+## 2. Pilih Jalur Anda
 
-There are several paths you can take in game development:
+Ada beberapa jalur yang bisa Anda ambil dalam pengembangan game:
 
-- 2D Game Development
-- 3D Game Development
-- Mobile Game Development
-- Virtual Reality (VR) / Augmented Reality (AR) Development
+- Pengembangan Game 2D
+- Pengembangan Game 3D
+- Pengembangan Game Mobile
+- Pengembangan Virtual Reality (VR) / Augmented Reality (AR)
 
-## 3. Learn the Basics
+## 3. Pelajari Dasar-dasarnya
 
-Start by learning the fundamentals:
+Mulailah dengan mempelajari dasar-dasar:
 
-- Basic programming concepts
-- Game design principles
-- Asset creation (graphics, sound)
+- Konsep dasar pemrograman
+- Prinsip desain game
+- Pembuatan aset (grafis, suara)
 
-## 4. Pick a Game Engine
+## 4. Pilih Game Engine
 
-Popular game engines for beginners include:
+Game engine populer untuk pemula termasuk:
 
 - Unity
 - Unreal Engine
 - Godot
 - Construct
 
-## 5. Start Small
+## 5. Mulai dari yang Kecil
 
-Begin with simple projects:
+Mulailah dengan proyek sederhana:
 
 - Pong
-- Snake
+- Ular
 - Platformer
 
-## 6. Learn by Doing
+## 6. Belajar dengan Melakukan
 
-Practice regularly and work on progressively complex projects.
+Berlatih secara teratur dan kerjakan proyek yang semakin kompleks.
 
-## 7. Join the Community
+## 7. Bergabung dengan Komunitas
 
-Engage with other developers:
+Terlibat dengan pengembang lain:
 
-- Join our [LearnGame.dev Forum](https://forum.learngame.dev/)
-- Participate in game jams
-- Attend local meetups or online events
+- Bergabung dengan [Forum LearnGame.dev](https://forum.learngame.dev/) kami
+- Berpartisipasi dalam game jam
+- Hadiri pertemuan lokal atau acara online
 
-## Next Steps
+## Langkah Selanjutnya
 
-Check out our other guides for more in-depth information on specific topics in game development.
+Lihat panduan kami yang lain untuk informasi lebih mendalam tentang topik-topik spesifik dalam pengembangan game.
 
-Remember, game development is a journey. Enjoy the process and keep learning!
+Ingat, pengembangan game adalah sebuah perjalanan. Nikmati prosesnya dan terus belajar!

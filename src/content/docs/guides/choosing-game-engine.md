@@ -1,53 +1,53 @@
 ---
-title: Choosing the Right Game Engine
-description: A guide to help you select the best game engine for your project.
+title: Memilih Game Engine yang Tepat
+description: Panduan untuk membantu Anda memilih game engine terbaik untuk proyek Anda.
 ---
 
-Choosing the right game engine is a crucial decision in your game development journey. This guide will help you understand the factors to consider and compare some popular options.
+Memilih game engine yang tepat adalah keputusan penting dalam perjalanan pengembangan game Anda. Panduan ini akan membantu Anda memahami faktor-faktor yang perlu dipertimbangkan dan membandingkan beberapa opsi populer.
 
-## Factors to Consider
+## Faktor-faktor yang Perlu Dipertimbangkan
 
-1. **Programming Language**: What languages are you comfortable with?
-2. **2D vs 3D**: What type of games do you want to create?
-3. **Platform Support**: Which platforms do you want to target?
-4. **Learning Curve**: How much time can you invest in learning?
-5. **Community and Resources**: Is there good documentation and community support?
-6. **Licensing and Costs**: What's your budget?
+1. **Bahasa Pemrograman**: Bahasa apa yang Anda kuasai?
+2. **2D vs 3D**: Jenis game apa yang ingin Anda buat?
+3. **Dukungan Platform**: Platform mana yang ingin Anda targetkan?
+4. **Kurva Pembelajaran**: Berapa banyak waktu yang bisa Anda investasikan untuk belajar?
+5. **Komunitas dan Sumber Daya**: Apakah ada dokumentasi dan dukungan komunitas yang baik?
+6. **Lisensi dan Biaya**: Berapa anggaran Anda?
 
-## Popular Game Engines
+## Game Engine Populer
 
 ### Unity
 
-- **Language**: C#
-- **Best for**: Both 2D and 3D games
-- **Platforms**: Multi-platform (PC, Mobile, Consoles)
-- **Pros**: Versatile, large community, extensive asset store
-- **Cons**: Can be overwhelming for beginners
+- **Bahasa**: C#
+- **Terbaik untuk**: Game 2D dan 3D
+- **Platform**: Multi-platform (PC, Mobile, Konsol)
+- **Kelebihan**: Serbaguna, komunitas besar, toko aset yang luas
+- **Kekurangan**: Bisa membingungkan untuk pemula
 
 ### Unreal Engine
 
-- **Language**: C++, Blueprint (visual scripting)
-- **Best for**: 3D games, especially high-end graphics
-- **Platforms**: Multi-platform (PC, Mobile, Consoles)
-- **Pros**: Powerful graphics capabilities, good for large projects
-- **Cons**: Steeper learning curve, more suitable for larger teams
+- **Bahasa**: C++, Blueprint (visual scripting)
+- **Terbaik untuk**: Game 3D, terutama grafis high-end
+- **Platform**: Multi-platform (PC, Mobile, Konsol)
+- **Kelebihan**: Kemampuan grafis yang kuat, bagus untuk proyek besar
+- **Kekurangan**: Kurva pembelajaran yang lebih curam, lebih cocok untuk tim besar
 
 ### Godot
 
-- **Language**: GDScript (similar to Python), C#, C++
-- **Best for**: 2D games, indie developers
-- **Platforms**: Multi-platform (PC, Mobile, Web)
-- **Pros**: Open-source, lightweight, easy to learn
-- **Cons**: Smaller community compared to Unity or Unreal
+- **Bahasa**: GDScript (mirip Python), C#, C++
+- **Terbaik untuk**: Game 2D, pengembang indie
+- **Platform**: Multi-platform (PC, Mobile, Web)
+- **Kelebihan**: Open-source, ringan, mudah dipelajari
+- **Kekurangan**: Komunitas lebih kecil dibandingkan Unity atau Unreal
 
 ### Construct
 
-- **Language**: No coding required (visual scripting)
-- **Best for**: 2D games, beginners
-- **Platforms**: Primarily web and mobile
-- **Pros**: Easy to use, rapid prototyping
-- **Cons**: Limited compared to more advanced engines
+- **Bahasa**: Tidak memerlukan coding (visual scripting)
+- **Terbaik untuk**: Game 2D, pemula
+- **Platform**: Terutama web dan mobile
+- **Kelebihan**: Mudah digunakan, prototyping cepat
+- **Kekurangan**: Terbatas dibandingkan dengan engine yang lebih canggih
 
-## Conclusion
+## Kesimpulan
 
-The best engine for you depends on your specific needs, skills, and goals. Don't be afraid to try out different engines to see which one feels right for you. Remember, the most important thing is to start creating games, regardless of the engine you choose!
+Engine terbaik untuk Anda tergantung pada kebutuhan, keterampilan, dan tujuan spesifik Anda. Jangan takut untuk mencoba engine yang berbeda untuk melihat mana yang paling cocok untuk Anda. Ingat, hal terpenting adalah mulai membuat game, terlepas dari engine yang Anda pilih!
